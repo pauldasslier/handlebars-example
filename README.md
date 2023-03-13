@@ -1,0 +1,1 @@
+Example of handlebars lib usage
