@@ -1,0 +1,29 @@
+{
+  "name": "handlebars-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel static/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauldasslier/handlebars-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauldasslier/handlebars-example/issues"
+  },
+  "homepage": "https://github.com/pauldasslier/handlebars-example#readme",
+  "dependencies": {
+    "handlebars": "^4.7.7"
+  },
+  "devDependencies": {
+    "@anikin/parcel-transformer-handlebars": "^1.0.9",
+    "@parcel/transformer-inline-string": "^2.8.3",
+    "parcel": "^2.8.3",
+    "parcel-transformer-handlebars": "^1.0.0"
+  }
+}

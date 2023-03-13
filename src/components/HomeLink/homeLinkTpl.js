@@ -1,0 +1,1 @@
+export const homeLinkTpl = `<a href="/" class="home-link">{{title}}</a>`;
